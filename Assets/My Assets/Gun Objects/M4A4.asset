@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: defccc3db3fc2e74f9b7627bca644e12, type: 3}
+  m_Name: M4A4
+  m_EditorClassIdentifier: 
+  id: 0
+  gunName: M4A4
+  gunImage: {fileID: 0}
+  maxBulletCount: 30
+  currentBulletCount: 6
+  gunMagazineCount: 9999
+  fireRate: 0.08
+  gunDamage: 25
+  fireType: 2
+  gunType: 0
